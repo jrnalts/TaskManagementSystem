@@ -276,6 +276,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   factory_bot_rails (~> 6.1)
   faker (~> 2.14)
+  i18n (~> 1.8, >= 1.8.5)
   jbuilder (~> 2.7)
   kaminari (~> 1.2, >= 1.2.1)
   listen (~> 3.2)

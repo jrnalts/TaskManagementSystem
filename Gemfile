@@ -23,6 +23,7 @@ gem 'redis', '~> 4.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'kaminari', '~> 1.2', '>= 1.2.1'
 gem 'pg', '~> 1.2', '>= 1.2.3'
+gem 'i18n', '~> 1.8', '>= 1.8.5'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
